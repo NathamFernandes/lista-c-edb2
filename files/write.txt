@@ -1,0 +1,3 @@
+Nome: 1
+Idade: 2
+Altura: 3.00
